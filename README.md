@@ -1,4 +1,6 @@
-### Hi there 👋 I am Ezhilarasi
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<h1>I am a MERN STACK DEVELOPER </h1>
 
 <!--
 
