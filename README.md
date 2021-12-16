@@ -9,7 +9,7 @@
 hi, i'm [Ezhilarasi](), I am A MERN STACK DEVELOPER, Learning new thing has always been my passion. I am  very fond of coding, one thing that kept me away from boredom is coding. I am passionate about learning new technologies and a good problem solver.
 
 Interested in learning Artificial Intelligence. 
-<img align="right" alt="GIF" src="src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-programmer-female-occupation-avatar-itim2101-lineal-color-itim2101.png" width="500" height="320" />
+<img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-programmer-female-occupation-avatar-itim2101-lineal-color-itim2101.png"/>
   
 - 💼 Any project Ideas!! do reach, [email](mailto:tezzhilarasi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
