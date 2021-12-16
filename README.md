@@ -23,29 +23,10 @@ Interested in learning Artificial Intelligence.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-TypeScript   3 hrs 15 mins   █████████████▒░░░░░░░░░░░   52.99 % 
-JSX          1 hr 28 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-HTML         44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-JavaScript   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-```
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+Its ezhil.....
 
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
